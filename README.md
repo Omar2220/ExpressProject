@@ -27,4 +27,4 @@ It wasn't easy to apply what I've learned and understand it deeply , so I did a 
 > - [Joi](https://www.npmjs.com/package/joi).
 
 
-**Aziz Abu Nahli & Omar Shammout - 2021©.**
+**Omar Shammout - 2021©.**
